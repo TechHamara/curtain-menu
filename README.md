@@ -16,14 +16,14 @@ Developed by TechHamara using Fast.<br>
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.curtainmenu
-💾 **Size:** 22.41 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-05-09 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
-Library Used By 7heaven [original CurtainSlidingMenu library](https://github.com/7heaven/CurtainSlidingMenu). thanks you. 
-
+📦 **Package:** io.th.curtainmenu<br>
+💾 **Size:** 22.41 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-05-09 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+**Library** Used By 7heaven [original CurtainSlidingMenu library](https://github.com/7heaven/CurtainSlidingMenu). thanks you. <br>
+**BUY** On UPI 180rs USD 2$
 
 ## Demo
 
