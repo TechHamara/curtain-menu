@@ -30,6 +30,17 @@ Developed by TechHamara using Fast.<br>
 ![MIT-App-Inventor-05-09-2025_10_38_AM](https://github.com/user-attachments/assets/27937825-4a4b-49e0-9f90-27b177b604b3)
 ![blocks](https://github.com/user-attachments/assets/4c8181cd-a1cb-49f1-b0de-98801c3fe376)
 
+-----
+
+![Gif2.gif](https://github.com/user-attachments/assets/58bc5aa6-5b6a-47d3-9e4c-725dc1bd3437)
+
+![Gif1.gif](https://github.com/user-attachments/assets/941e477f-6067-438f-8da6-b53172e09be5)
+
+-----
+
+![Screenshot2.jpg](https://github.com/user-attachments/assets/f437f770-c818-4670-b34e-c1d1998ce7eb)
+
+![Screenshot1.jpg](https://github.com/user-attachments/assets/33bf2c5b-3c1f-4ae5-95e5-90ebeccafdcd)
 
 ## Blocks
 
