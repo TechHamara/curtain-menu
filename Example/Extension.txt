@@ -1,0 +1,3 @@
+An extension for MIT App Inventor 2.
+Developed by TechHamara using Fast.
+- Sliding menu with curtain effect animation - Support for left or right menu directions - Customizable menu width - Smooth animation transitions - Touch gestures (swipe, fling) for intuitive interaction - Direction-aware gesture handling (works properly for both left and right menu directions) - Event-driven programming support with menu state change events - Robust error handling with informative error messages - Proper background color handling (automatically hides when menu is closed).
