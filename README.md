@@ -22,8 +22,8 @@ Developed by TechHamara using Fast.<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-05-09 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
-**Library** Used By 7heaven [original CurtainSlidingMenu library](https://github.com/7heaven/CurtainSlidingMenu). thanks you. <br>
-**BUY** On UPI 180rs USD 2$
+📚 **Library** Used By 7heaven [original CurtainSlidingMenu library](https://github.com/7heaven/CurtainSlidingMenu). thanks you. <br>
+💲 **BUY** On UPI 180rs USD 2$
 
 ## Demo
 
